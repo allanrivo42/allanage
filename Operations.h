@@ -6,4 +6,4 @@ int multiplication(int a, int b);
 
 int division(int a, int b);
 
-int factoriel(int nb)
+int factoriel(int nb);
