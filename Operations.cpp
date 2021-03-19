@@ -35,3 +35,10 @@ int division(int a, int b)
 	
 	return resultat;
 }
+
+int NombrePremierPlusPetit(int N) 
+{
+     int Count=0,I;
+     for(I=2; I<N; I++) if(Premier(I)) Count++;
+     return Count;
+}
