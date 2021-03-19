@@ -35,3 +35,6 @@ int division(int a, int b)
 	
 	return resultat;
 }
+
+
+poç_yè-kiètèi-r
